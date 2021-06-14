@@ -1,0 +1,31 @@
+#events-banner{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 220px;
+    margin: 0 auto;
+    border-top:4px solid #43b32b;
+    border-bottom:4px solid #43b32b;
+    justify-content: center;
+    background-image: url("https://images0.westend61.de/0001007755pw/overhead-view-of-people-in-a-city-park-on-a-summer-day-sitting-standing-on-picnic-rugs-MINF01110.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.cover{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    background: rgba(5, 7, 5, 0.3);
+    display: flex;
+    align-items:center;
+    
+}
+#events-banner h1{
+    width: 75%;
+    padding-left: 15px;
+    color: white;
+    margin: 0 auto;
+    font-size: 60px;
+}
+
